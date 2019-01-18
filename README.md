@@ -1,6 +1,6 @@
 # Open Media Library Windows System Tray Integration
 
-[![Build Status](https://travis-ci.org/2620/openmedialibrary_windows_build.svg?branch=master)](https://travis-ci.org/2620/openmedialibrary_windows_build)
+[![trayicon Status](https://travis-ci.org/2620/openmedialibrary_windows_trayicon.svg?branch=master)](https://travis-ci.org/2620/openmedialibrary_windows_trayicon)
 
 # Build
     pip install -r requirements.txt

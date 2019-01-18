@@ -1,0 +1,4 @@
+os: windows
+language: sh
+install:
+    - "./build.sh"
