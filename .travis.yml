@@ -6,7 +6,7 @@ deploy:
   provider: releases
   api_key:
     secure: HtYzKGWl54tKM6mbN4usTvlOBMyOIx28D8DjZKt4NWU7womRP4pwjur4PqhwARKTZHmI0esxGbGJukliJUv7G9vN3Athau9Dr197DWrxuIagwWd+j77Z4BMiUMuhGFFu7LaAp9EUNOPCEsYaETpPb31avk8Twr+ybVi7BEJCsnq9abniWsJFdO8jjUUXo94jQn3FYWov8ykIuor08sx3mrI8i6BMHFJW5wD7X00AnDSbuT9U9AMMXKSpdVliyCPsoG0/FLF1NNYFTdtstESOL9974dEcQMEZUTWsrvo75bi0EoL0Pzaln9YcFPwaIV2KRvZWurZfAbSCWXMMk+Y0V5IPcyyu7zJWZigpDPO8l7OXCndHmoyDj5vpGiWb+o7STwj0CakqG1W6o3dBTgTBLBANFONiocLIFr2Q5CnRHmDWr3i7xYO8jcQezuRVWfNn+b4stYlpv/JytDBr0ozxK5KUqnA7yjOlfoJwI+ntT6u1gXHp7AT6brAoJr6s4Xzy9/ROtIu10ZUW6PNuBlsl8mjtHZEKV3RpSVL1xYu0VUI8dOV/6V1Foj7tyN3o+G6LrB0QR2Pn/fprcNyB5mOemYsFzQAW/A5wYQnl4muD+CFxyQ5b93xcGWpuefNnETkmFufVKjdOyAqhUlXDmcwqQFLx+4X9m5WzVwkMW6Ho5Qk=
-  file: dist/*.msi
+  file: dist/*
   skip_cleanup: true
   on:
     tags: true

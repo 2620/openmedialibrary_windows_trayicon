@@ -269,6 +269,7 @@ def quit(sysTrayIcon):
         except:
             pass
 
+
 if __name__ == '__main__':
     if getattr(sys, 'frozen', False):
         base = os.path.dirname(sys.executable)
