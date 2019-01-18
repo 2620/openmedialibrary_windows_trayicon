@@ -1,2 +1,2 @@
 pywin32
-cx_Freeze
+git+https://github.com/anthony-tuininga/cx_Freeze.git@master
