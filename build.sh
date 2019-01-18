@@ -10,4 +10,3 @@ export CL="\"-FIC:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\inclu
 "C:\\Python37\\Scripts\\pip.exe" install -r requirements.txt
 $python setup.py bdist_msi
 ls -la dist/
-cp dist/*.msi "Open Media Library.msi"
