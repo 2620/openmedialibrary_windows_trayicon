@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256">
+    <g transform="translate(128, 128)" stroke="#808080" stroke-linecap="round" stroke-width="28">
+        <line x1="0" y1="-114" x2="0" y2="-70" transform="rotate(0)" opacity="1"/>
+        <line x1="0" y1="-114" x2="0" y2="-70" transform="rotate(30)" opacity="0.083333"/>
+        <line x1="0" y1="-114" x2="0" y2="-70" transform="rotate(60)" opacity="0.166667"/>
+        <line x1="0" y1="-114" x2="0" y2="-70" transform="rotate(90)" opacity="0.25"/>
+        <line x1="0" y1="-114" x2="0" y2="-70" transform="rotate(120)" opacity="0.333333"/>
+        <line x1="0" y1="-114" x2="0" y2="-70" transform="rotate(150)" opacity="0.416667"/>
+        <line x1="0" y1="-114" x2="0" y2="-70" transform="rotate(180)" opacity="0.5"/>
+        <line x1="0" y1="-114" x2="0" y2="-70" transform="rotate(210)" opacity="0.583333"/>
+        <line x1="0" y1="-114" x2="0" y2="-70" transform="rotate(240)" opacity="0.666667"/>
+        <line x1="0" y1="-114" x2="0" y2="-70" transform="rotate(270)" opacity="0.75"/>
+        <line x1="0" y1="-114" x2="0" y2="-70" transform="rotate(300)" opacity="0.833333"/>
+        <line x1="0" y1="-114" x2="0" y2="-70" transform="rotate(330)" opacity="0.916667"/>
+    </g>
+</svg>
